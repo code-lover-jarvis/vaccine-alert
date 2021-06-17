@@ -7,7 +7,7 @@ import time
 notify=Notify()
 count=0
 
-# https://notify.run/c/wHAiJ6eL87leGECJ
+# https://notify.run/c/*********
 while True:
     print(count+1)
     x = (datetime.date.today() + datetime.timedelta(days=1)).strftime("%d-%m-%Y")
